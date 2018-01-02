@@ -1,10 +1,11 @@
 # CP4P
 
-### I make a Computational Physics Text for Python.
-### If you have questions, recommendations, etc, send a mail to h2hb0307@gmail.com
+### Computational Physics  for Python.
+### 전산물리학을 파이썬으로 짜기 위해 만들었습니다.
+### 문의사항이, 지적 등은 h2hb0307@gmail.com으로 보내주세요.
 
 #### Start Project 2018.01.02 
-#### Author: Hunboem Bak
+#### 저자: Hunboem Bak
 
 
 # Index
